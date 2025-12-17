@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AutoClaim",
+  "description": "AI-powered reimbursement automation for WiFi and Mobile bills, extracting data and validating claims instantly.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
